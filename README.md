@@ -14,9 +14,8 @@ learning Frontend future Full Stack
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusDorta&custom_title=My%20Projects%20Languages&theme=dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-\- 💬 Ask me about https://www.linkedin.com/in/vinicius-dorta-4613951a3/ 
-\- 📫 How to reach me: vinicius\_o.dorta@hotmail.com
 
 *   🌍  I'm based in Brazil
 *   ✉️  You can contact me at [vinicius\_o.dorta@hotmail.com](mailto:vinicius_o.dorta@hotmail.com)
+*   💬  Ask me about https://www.linkedin.com/in/vinicius-dorta-4613951a3/  
 *   🧠  I'm learning I'am learning Frontend - HTML, CSS and JS
