@@ -18,4 +18,4 @@ learning Frontend future Full Stack
 *   🌍  I'm based in Brazil
 *   ✉️  You can contact me at [vinicius\_o.dorta@hotmail.com](mailto:vinicius_o.dorta@hotmail.com)
 *   💬  Ask me about https://www.linkedin.com/in/vinicius-dorta-4613951a3/  
-*   🧠  I'm learning I'am learning Frontend - HTML, CSS and JS
+*   🧠  I'am learning Frontend - HTML, CSS and JS
