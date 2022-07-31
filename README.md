@@ -18,4 +18,4 @@ Learning Frontend HTML5, CSS3, and JS
 *   🌍  I'm based in Brazil
 *   ✉️  You can contact me at [vinicius\_o.dorta@hotmail.com](mailto:vinicius_o.dorta@hotmail.com)
 *   💬  Ask me about: C#, Javascript  
-*   🧠  I'am learning Frontend - HTML, CSS and JS
+*   🧠  I'am learning Frontend and Backend, Python, C# 
