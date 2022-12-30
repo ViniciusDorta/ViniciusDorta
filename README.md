@@ -1,8 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vinicius
 ================================================================================================================================
 
-Learning Frontend HTML5, CSS3, and JS
------------------------------------
+Learning Frontend - HTML5, CSS3 and JavaScript
+----------------------------------------------
+
+Learning Backend - PHP, Laravel and Livewire
+----------------------------------------------
 
 ### Skills
 
