@@ -21,5 +21,5 @@ Learning Backend - PHP, Laravel and Livewire
 *   🌍  I'm based in Brazil
 *   ✉️  You can contact me at [vinicius\_o.dorta@hotmail.com](mailto:vinicius_o.dorta@hotmail.com)
 *   💬  Ask me about: C#, Javascript  
-*   🧠  I'am learning Frontend and Backend, Python, C# 
+*   🧠  I'am Learning Fullstack => Frontend Javascript and Jquery // Backend PHP and SQLServer => DataBase
 *   🖥️  My domain https://www.viniciusdorta.com.br
