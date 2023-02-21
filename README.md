@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Learning JS + PHP + SQL
 -----------------------
 
-\- 💬 Ask me about Javascript and PHP - 📫 How to reach me: vinicius\_o.dorta@hotmail.com\]
+\- 💬 Ask me about Javascript and PHP 
+\- 📫 How to reach me: vinicius\_o.dorta@hotmail.com\]
 
 * 🌍  I'm based in Brazil
 * 🖥️  See my portfolio at [Porfolio](http://viniciusdorta.com.br)
